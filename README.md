@@ -1,4 +1,8 @@
-## Hi there 👋
+# blog (kind of?)
+
+Some of my thoughts about Swift and development on Apple's platforms, written as short blog-like articles:
+
+https://medium.com/@lensflare
 
 <!--
 **WilhelmOks/WilhelmOks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
