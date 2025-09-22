@@ -1,10 +1,10 @@
 # About me
 
-### native mobile
+### Native Mobile
 
 I love developing apps for iOS, especially with SwiftUI. I believe that it's the best developer experience that you can get.
 
-### hybrid/cross platform mobile
+### Hybrid/Cross Platform Mobile
 
 I'm sceptical about hybrid/cross platform mobile development like Xamarin, React Native, Flutter and Kotlin Multiplatform.
 
@@ -14,7 +14,24 @@ On the other hand, they don't live up to their promises to speed up the developm
 In my opinion mobile apps should be written in native technologies, Swift+SwiftUI for iOS and Kotlin+Compose for Android.
 A great developer experience means fast development and better quality of the end product.
 
-# blog (kind of?)
+### Swift and Kotlin
+
+My favorite programming languages by far are Swift and Kotlin.
+
+Swift combines the performance of low level languages like C++ with the feature set of Haskell and the syntactic elegance and ease of use of JavaScript.
+It has the advantages of every language and practically no disadvantages.
+
+Kotlin has great syntactic sugar, making declarative definitions and initialization logic of types a joy to use. Sadly it's bound to the JVM and doesn't have custom value types (`struct` in Swift and C#).
+
+What I love most about Swift and Kotlin is that they make it practically almost impossible to have null-pointer-exception bugs. 
+And both have algebraic sum types, which make it possible to model data safely and elegantly.
+
+### Architecture
+
+I believe that the best code architecture for a project is one that is tailored specifically for that particular project.
+There are no silver bullets. It always depends.
+
+# Blog (kind of?)
 
 Some of my thoughts about Swift and development on Apple's platforms, written as short blog-like articles:
 
